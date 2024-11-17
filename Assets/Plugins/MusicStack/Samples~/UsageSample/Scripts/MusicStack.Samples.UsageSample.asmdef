@@ -1,7 +1,9 @@
 {
     "name": "MusicStack.Samples.UsageSample",
     "rootNamespace": "Feverfew.MusicStack.Samples.UsageSample",
-    "references": [],
+    "references": [
+        "GUID:357992865adda3f45b5b41fe86987f6f"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
