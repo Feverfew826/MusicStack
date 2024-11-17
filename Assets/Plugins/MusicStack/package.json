@@ -1,0 +1,29 @@
+{
+  "name": "com.feverfew826.music-stack",
+  "version": "0.0.1",
+  "displayName": "MusicStack",
+  "description": "This project aims to control musics(BGM)",
+  "unity": "2021.3",
+  "unityRelease": "24f1",
+  "documentationUrl": "https://github.com/Feverfew826/MusicStack/blob/main/README.md",
+  "changelogUrl": "https://github.com/Feverfew826/MusicStack/commits/main/",
+  "licensesUrl": "https://github.com/Feverfew826/MusicStack/blob/main/LICENSE",
+  "dependencies": {
+ },
+ "keywords": [
+    "Music",
+    "Stack"
+  ],
+  "author": {
+    "name": "Feverfew826",
+    "email": "lightkill826@gmail.com",
+    "url": "https://github.com/Feverfew826"
+  },
+  "samples": [
+        {
+            "displayName": "Usage sample",
+            "description": "This is usage sample.",
+            "path": "Samples~/UsageSample"
+        }
+	]
+}

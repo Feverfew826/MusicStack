@@ -1,0 +1,14 @@
+{
+    "name": "MusicStack.Samples.UsageSample",
+    "rootNamespace": "Feverfew.MusicStack.Samples.UsageSample",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
